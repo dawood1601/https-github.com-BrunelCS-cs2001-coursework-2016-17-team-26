@@ -2,11 +2,11 @@
 <instant-run
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="23"
-    density="xxhdpi"
+    density="xhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="157151432651791"
-    token="4810469020312087223"
+    timestamp="786685402019569"
+    token="2970656948283262999"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
@@ -23,21 +23,14 @@
         duration="0" />
 
     <build
-        timestamp="156647110772918"
+        timestamp="786640996855610"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/home/Projects/android/Project26/app/build/outputs/apk/app-debug.apk"
+            location="C:\Users\noors\Documents\2nd Year\CS2001\group26\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="157142185407463"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/home/Projects/android/Project26/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="157151432651791"
+        timestamp="786685402019569"
         verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
