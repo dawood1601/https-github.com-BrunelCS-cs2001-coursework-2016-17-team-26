@@ -42,36 +42,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-public class fir extends AppCompatActivity {
 
-public Button but1;
-
-
-public void  init(){
-    but1=(Button)findViewById(R.id.jj);
-
-
-    but1.setOnClickListener(
-            new View.OnClickListener() {
-        @Override
-        public void onClick(View v) {
-            Intent toy= new Intent(fir.this,Second.class);
-            startActivity(toy);
-        }
-    });
-
-
-
-}
-
-
-
-  Diagram for applications
   
-  
-  
-  
- Here are the all the picture and flow diagrams of our project :
+ Here are the all the pictures and flow diagrams of our project :
 
 
 
